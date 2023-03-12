@@ -1,0 +1,5 @@
+# See https://pylint.pycqa.org/en/latest/user_guide/messages/message_control.html
+
+[MESSAGES CONTROL]
+
+disable=C,R,W,E,I
